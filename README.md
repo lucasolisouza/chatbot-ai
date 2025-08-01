@@ -5,6 +5,8 @@
 
 Um chatbot de terminal simples que utiliza a API da Groq com o modelo LLaMA3-8b para gerar respostas em tempo real.
 
+![Image](https://github.com/user-attachments/assets/854fc553-91a0-4fac-99a4-c11d271c89c2)
+
 ## Funcionalidades
 
 - Interface de conversa em terminal simples e intuitiva
